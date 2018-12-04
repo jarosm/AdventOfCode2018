@@ -24,3 +24,5 @@ D3b/obj/Debug/D3b.csproj.CoreCompileInputs.cache
 D3b/obj/Debug/D3b.csproj.FileListAbsolute.txt
 D3b/obj/Debug/D3b.csprojResolveAssemblyReference.cache
 D3b/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
+*.txt
