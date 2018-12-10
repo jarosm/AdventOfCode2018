@@ -26,3 +26,5 @@ D3b/obj/Debug/D3b.csprojResolveAssemblyReference.cache
 D3b/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 *.cache
 *.txt
+*.ide-shm
+*.ide-wal
